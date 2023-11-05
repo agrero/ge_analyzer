@@ -1,0 +1,11 @@
+{
+  "name": "rl_api",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node rl_api.js"
+  },
+  "dependencies": {
+    "runelite": "^2.0.5"
+  }
+}
