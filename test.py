@@ -1,4 +1,4 @@
-from python import Converter as Converter
+from Classes import Converter as Converter
 
 converter = Converter.Converter('data/latest.json')
 
